@@ -1,16 +1,16 @@
-Hi 👋, I'm LUCCA MICALE
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=51F75A&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+LUCCA+MICALE)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=+++++++++++++++Hello+Devalopers!!!;+++++++++++++++This+is+my+profile)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=+++++++++++++++Hello+Developers!!!;+++++++++++++++This+is+my+profile)](https://git.io/typing-svg)
 
 
 Always deliver more than expected, be good to people and trust God always
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=luccamicale)](https://github.com/ryo-ma/github-profile-trophy)
 
-                                  Look my profile...
-                                 
-                                
+ 
+ 📖 About me
+                                                             
 
 - 👋 Hi, I’m @luccamicale
 - 👀 I’m currently studying at @microverseinc
