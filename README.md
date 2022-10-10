@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Developers;This+is+my+profile)](https://git.io/typing-svg)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism
 
 
 Always deliver more than expected, be good to people and trust God always
