@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Developers;This+is+my+profile)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Always deliver more than expected, be good to people and trust God always
@@ -37,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 ![image](https://user-images.githubusercontent.com/107897361/194949028-8ac3a291-e4ac-4f8c-80ea-870327cc96f5.png)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![image](https://user-images.githubusercontent.com/107897361/194950651-13acac35-83af-42df-9065-f815caa0a75c.png)
 
