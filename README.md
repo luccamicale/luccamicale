@@ -7,8 +7,19 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=luccamicale)](https://github.com/ryo-ma/github-profile-trophy)
 
                                  Look my profile...
+                                 
+                                 
 
-https://github-profile-trophy.vercel.app/?username=luccamicale&theme=buddhism
+GitHub Profile Trophy
+🏆 Add dynamically generated GitHub Stat Trophies on your readme
+
+   
+
+
+
+You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
+
+
 
 
 
