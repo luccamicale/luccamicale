@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Developers;This+is+my+profile)](https://git.io/typing-svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Always deliver more than expected, be good to people and trust God always
