@@ -1,4 +1,4 @@
-                                                       Hi 👋, I'm LUCCA MICALE
+                                                   Hi 👋, I'm LUCCA MICALE
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Developers;This+is+my+profile)](https://git.io/typing-svg)
 
@@ -19,7 +19,6 @@ https://github-profile-trophy.vercel.app/?username=luccamicale&theme=buddhism
 ⚡ Fun fact I love to play and watch Tennis
 
 
-<!---
 luccamicale/luccamicale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
