@@ -24,7 +24,8 @@ https://github-profile-trophy.vercel.app/?username=luccamicale&theme=buddhism
 luccamicale/luccamicale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-https://github.com/users/luccamicale/achievements/pull-shark
+![image](https://user-images.githubusercontent.com/107897361/194950271-aa85edc5-8d50-4281-8fd6-aaa08727d324.png)
+
 
 ![image](https://user-images.githubusercontent.com/107897361/194948813-c9cce9da-9528-4ed0-b4b3-042ea37471ad.png)
 
