@@ -6,6 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=luccamicale)](https://github.com/ryo-ma/github-profile-trophy)
 
+                                 Look my profile...
+
 https://github-profile-trophy.vercel.app/?username=luccamicale&theme=buddhism
 
 
