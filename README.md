@@ -4,26 +4,11 @@
 
                                   Always deliver more than expected, be good to people and trust God always
 
-           [![trophy](https://github-profile-trophy.vercel.app/?username=luccamicale)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=luccamicale)](https://github.com/ryo-ma/github-profile-trophy)
 
-                                 Look my profile...
+                                  Look my profile...
                                  
-                                 
-![image](https://user-images.githubusercontent.com/107897361/194950651-13acac35-83af-42df-9065-f815caa0a75c.png)
-
-GitHub Profile Trophy
-
-🏆 Add dynamically generated GitHub Stat Trophies on your readme
-
-   
-
-
-
-You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
-
-
-
-
+                                
 
 - 👋 Hi, I’m @luccamicale
 - 👀 I’m currently studying at @microverseinc
@@ -34,8 +19,11 @@ You can use this service for free. I'm looking for sponsors to help us keep up w
 ⚡ Fun fact I love to play and watch Tennis
 
 
+
+
 luccamicale/luccamicale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 
 
 
@@ -43,3 +31,13 @@ You can click the Preview link to take a look at your changes.
 
 
 ![image](https://user-images.githubusercontent.com/107897361/194949028-8ac3a291-e4ac-4f8c-80ea-870327cc96f5.png)
+
+
+![image](https://user-images.githubusercontent.com/107897361/194950651-13acac35-83af-42df-9065-f815caa0a75c.png)
+
+                 GitHub Profile Trophy
+
+🏆 Add dynamically generated GitHub Stat Trophies on your readme
+
+You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
+
