@@ -1,4 +1,4 @@
-Hi 👋, I'm LUCCA MICALE
+                                                            Hi 👋, I'm LUCCA MICALE
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Developers;This+is+my+profile)](https://git.io/typing-svg)
 
