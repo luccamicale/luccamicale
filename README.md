@@ -25,3 +25,6 @@ You can click the Preview link to take a look at your changes.
 https://github.com/users/luccamicale/achievements/pull-shark
 
 ![image](https://user-images.githubusercontent.com/107897361/194948813-c9cce9da-9528-4ed0-b4b3-042ea37471ad.png)
+
+
+![image](https://user-images.githubusercontent.com/107897361/194949028-8ac3a291-e4ac-4f8c-80ea-870327cc96f5.png)
