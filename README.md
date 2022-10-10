@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=1&pause=1000&color=29F71F&width=471&lines=Hi+%F0%9F%91%8B%2C+I'm+LUCCA+MICALE)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=+++++++++++++++Hello+Developers!!!;+++++++++++++++This+is+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1DA9F7&width=471&lines=Hello+Developers!!!)](https://git.io/typing-svg)
 
 
 Always deliver more than expected, be good to people and trust God always
