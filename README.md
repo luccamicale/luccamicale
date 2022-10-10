@@ -38,6 +38,9 @@ luccamicale/luccamicale is a ✨ special ✨ repository because its `README.md` 
 
 ![image](https://user-images.githubusercontent.com/107897361/194950651-13acac35-83af-42df-9065-f815caa0a75c.png)
 
+![image](https://user-images.githubusercontent.com/107897361/194963330-1928c5f0-a4fe-4b55-92dd-5ead4eb51129.png)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71A6E&width=435&lines=GitHub+Profile+Trophy)](https://git.io/typing-svg)
 
 🏆 Add dynamically generated GitHub Stat Trophies on your readme
