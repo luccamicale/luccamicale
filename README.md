@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=1000&color=51F75A&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+LUCCA+MICALE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=51F75A&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+LUCCA+MICALE)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=+++++++++++++++Hello+Developers!!!;+++++++++++++++This+is+my+profile)](https://git.io/typing-svg)
@@ -9,7 +9,7 @@ Always deliver more than expected, be good to people and trust God always
 [![trophy](https://github-profile-trophy.vercel.app/?username=luccamicale)](https://github.com/ryo-ma/github-profile-trophy)
 
  
- 📖 About me
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FCEF7&width=435&lines=%F0%9F%93%96+About+me)](https://git.io/typing-svg)
                                                              
 
 - 👋 Hi, I’m @luccamicale
@@ -24,7 +24,6 @@ Always deliver more than expected, be good to people and trust God always
 
 
 luccamicale/luccamicale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
 
 
