@@ -11,15 +11,13 @@ Always deliver more than expected, be good to people.
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FCEF7&width=435&lines=%F0%9F%93%96+About+me)](https://git.io/typing-svg)
                                                              
 
-- 👋 Hi, I’m @luccamicale.
-- 👀 I’m currently studying at @microverseinc.
-- 🌱  I’m currently learning Javascript and Ruby.
-- 💞️ I’m looking to collaborate on a development company.
-- 💬 Ask me about Flutter, Symfony and Java.
-- 📫 How to reach me luccamicale2015@gmail.com
+Hi, I’m @luccamicale.
+👀 I’m currently studying at @microverseinc.
+🌱 I’m currently learning Javascript and Ruby.
+💞️ I’m looking to collaborate with a development company.
+💬 Ask me about Flutter, Symfony, and Java.
+📫 How to reach me luccamicale2015@gmail.com 
 ⚡ Fun fact I love to play and watch Tennis
-
-
 
 
 
