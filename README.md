@@ -22,9 +22,6 @@ Always deliver more than expected, be good to people and trust God always
 
 
 
-luccamicale/luccamicale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 
 ![image](https://user-images.githubusercontent.com/107897361/194948813-c9cce9da-9528-4ed0-b4b3-042ea37471ad.png)
