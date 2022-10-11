@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1DA9F7&center=true&vCenter=true&width=671&lines=++++++++++++++++++++Hello+Developers!!!)](https://git.io/typing-svg)
 
 
-Always deliver more than expected, be good to people and trust God always
+Always deliver more than expected, be good to people.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=luccamicale)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -11,11 +11,11 @@ Always deliver more than expected, be good to people and trust God always
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FCEF7&width=435&lines=%F0%9F%93%96+About+me)](https://git.io/typing-svg)
                                                              
 
-- 👋 Hi, I’m @luccamicale
-- 👀 I’m currently studying at @microverseinc
-- 🌱  I’m currently learning Javascript, Ruby, Python
-- 💞️ I’m looking to collaborate on ...
-- 💬 Ask me about Flutter, Symfony and Java
+- 👋 Hi, I’m @luccamicale.
+- 👀 I’m currently studying at @microverseinc.
+- 🌱  I’m currently learning Javascript and Ruby.
+- 💞️ I’m looking to collaborate on a development company.
+- 💬 Ask me about Flutter, Symfony and Java.
 - 📫 How to reach me luccamicale2015@gmail.com
 ⚡ Fun fact I love to play and watch Tennis
 
