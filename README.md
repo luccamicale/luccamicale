@@ -34,6 +34,7 @@ Always deliver more than expected, be good to people.
 
 🛠️ Languages and Tools I have worked with:
 
+![image](https://user-images.githubusercontent.com/107897361/200433032-e416c361-2356-4ec4-9763-31601d4faba3.png)
 
 
 
