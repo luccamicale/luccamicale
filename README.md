@@ -27,7 +27,12 @@ Always deliver more than expected, be good to people.
 
 🛠️ Languages and Tools I have worked with:
 
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"      height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40"   height="40"/>&nbsp;
+</div>
 
 ![image](https://user-images.githubusercontent.com/107897361/194948813-c9cce9da-9528-4ed0-b4b3-042ea37471ad.png)
 
