@@ -23,11 +23,10 @@ Always deliver more than expected, be good to people.
 
 ⚡ Fun fact I love to play and watch Tennis
 
-📫 If you prefer reaching out via email, check it out below:
-luccamicale2015@gmail.com
+
 
 🛠️ Languages and Tools I have worked with:
-HTML  CSS  JavaScript  Bootstrap React Ruby 
+
 
 
 ![image](https://user-images.githubusercontent.com/107897361/194948813-c9cce9da-9528-4ed0-b4b3-042ea37471ad.png)
