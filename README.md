@@ -75,3 +75,7 @@ Always deliver more than expected, be good to people.
 
 You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=luccamicale&&style=flat-square" align="center" />
+</div>
+
