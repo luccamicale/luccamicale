@@ -60,7 +60,7 @@ Always deliver more than expected, be good to people.
 
 
 
-![image](https://user-images.githubusercontent.com/107897361/194948813-c9cce9da-9528-4ed0-b4b3-042ea37471ad.png)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndorrh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
