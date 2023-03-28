@@ -67,7 +67,7 @@ Always deliver more than expected, be good to people.
 ![image](https://user-images.githubusercontent.com/107897361/194949028-8ac3a291-e4ac-4f8c-80ea-870327cc96f5.png)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
 
 
 
