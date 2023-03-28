@@ -72,7 +72,7 @@ Always deliver more than expected, be good to people.
 
 
 
-![image](https://user-images.githubusercontent.com/107897361/194949028-8ac3a291-e4ac-4f8c-80ea-870327cc96f5.png)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haywayaheadshot&show_icons=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ![image](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
