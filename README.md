@@ -29,7 +29,7 @@ Always deliver more than expected, be good to people.
 
 🔭 I’m currently studying at @microverseinc
 
-🌱 I’m currently learning React, Ruby, and Javascript 
+🌱 I’m currently learning React and Ruby on Rails
 
 👨‍💻 All of my projects are available at https://github.com/luccamicale
 
