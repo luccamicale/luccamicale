@@ -85,7 +85,7 @@ Always deliver more than expected, be good to people.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71A6E&width=435&lines=GitHub+Profile+Trophy)](https://git.io/typing-svg)
 
-🏆 Add dynamically generated GitHub Stat Trophies on your readme
+🏆 Add dynamically generated GitHub Stat Trophies on your readme...
 
 You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️...
 
