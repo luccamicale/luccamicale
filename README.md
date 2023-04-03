@@ -29,11 +29,11 @@ Always deliver more than expected, be good to people.
 
 🔭 I’m currently studying at @microverseinc
 
-🌱 I’m currently learning React and Ruby on Rails
+🌱 I’m currently learning Ruby on Rails
 
 👨‍💻 All of my projects are available at https://github.com/luccamicale
 
-💬 Ask me about Flutter, Symfony and Java
+💬 Ask me about React and Redux 
 
 📫 How to reach me luccamicale2015@gmail.com
 
@@ -54,11 +54,9 @@ Always deliver more than expected, be good to people.
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Webpack-430098?style=flat&logo=webpack&logoColor=white">
 
