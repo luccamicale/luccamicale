@@ -3,6 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1DA9F7&center=true&vCenter=true&width=671&lines=++++++++++++++++++++Hello+Developers!!!)](https://git.io/typing-svg)
 
 
+## 🌐 Socials:
+
 <div>
   <a href=https://www.linkedin.com/in/luccamicale/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
