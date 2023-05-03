@@ -4,7 +4,9 @@
 
 
 ## 🌐 Socials:
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/julzedz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/julzedz) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/jules-edozie-b59b94234/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](edoziechukwuma@gmail.com)
+<a href="https://www.linkedin.com/in/vaneoliverosp/"><img align="left" alt="vanessa Oliveros| LinkedIn" width="22px" src="Linkedin (1).svg" /></a>
+<a href="mailto:vaneolipa@gmail.com/"><img align="left" alt="vanessa Oliveros | Gmail" width="22px" src="Gmail.svg" /></a>
+<a href="https://twitter.com/vaneoliverosp"><img align="left" alt="vanessa Oliveros | Twitter" width="22px" src="Twitter (1).svg" /></a>
 
 
 Always deliver more than expected, be good to people.
