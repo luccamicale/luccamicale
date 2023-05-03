@@ -4,9 +4,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/vaneoliverosp/"><img align="left" alt="vanessa Oliveros| LinkedIn" width="22px" src="Linkedin (1).svg" /></a>
-<a href="mailto:vaneolipa@gmail.com/"><img align="left" alt="vanessa Oliveros | Gmail" width="22px" src="Gmail.svg" /></a>
-<a href="https://twitter.com/vaneoliverosp"><img align="left" alt="vanessa Oliveros | Twitter" width="22px" src="Twitter (1).svg" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcosgualtero) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@marcosgualtero43253) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Goruchie2) 
 
 
 Always deliver more than expected, be good to people.
