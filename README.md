@@ -24,7 +24,7 @@ Always deliver more than expected, be good to people.
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)
 
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FCEF7&width=435&lines=%F0%9F%93%96+About+me)(https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1FCEF7&width=435&lines=%F0%9F%93%96+About+me)](https://git.io/typing-svg)
                                                              
 
 🔭 I’m currently studying at @microverseinc
