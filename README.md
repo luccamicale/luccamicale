@@ -21,7 +21,7 @@ Always deliver more than expected, be good to people.
 
 👨‍💻 All of my projects are available at https://github.com/luccamicale
 
-💬 Ask me about React and Redux 
+💬 Ask me about React and React Routes
 
 📫 How to reach me luccamicale2015@gmail.com
 
