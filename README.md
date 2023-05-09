@@ -17,7 +17,7 @@ Always deliver more than expected, be good to people.
 
 🔭 I Finished my degree at @microverseinc
 
-🌱 I’m currently learning Typescript
+🌱 I’m currently learning Typescript...
 
 👨‍💻 All of my projects are available at https://github.com/luccamicale
 
