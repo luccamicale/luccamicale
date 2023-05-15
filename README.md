@@ -25,7 +25,7 @@ Always deliver more than expected, be good to people.
 
 📫 How to reach me luccamicale2015@gmail.com
 
-⚡ Fun fact I love to play and watch Tennis
+⚡ Fun fact I love to play and watch Tennis...
 
 
 🛠️ Languages and Tools I have worked with:
